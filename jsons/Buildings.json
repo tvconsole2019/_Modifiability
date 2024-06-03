@@ -1,13 +1,13 @@
 
 [
 	{
-		"name": "Fr33 W0rk3r",
+		"name": "Spy Gaming",
 		"cost": 1,
 		"hurryCostModifier": 1,
 		"maintenance": 0,
-		"uniques": [ "Automatically built in all cities where it is buildable",
+		"uniques": ["Automatically built in all cities where it is buildable",
 		    "Limited to [1] per Civilization",
-		    "Unbuildable <for [AI player]>",
-		    "Free [Worker] appears <for [Human player]>"]
+		    "[-999]% spy effectiveness [in all cities] <for [AI player]>",
+		    "[+999]% spy effectiveness [in all cities] <for [Human player]>"]
 	},
 ]
