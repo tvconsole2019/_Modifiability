@@ -9,14 +9,4 @@
                 "resourceType": "Strategic",
                 "uniques": ["Stockpiled","Cannot be traded","Not shown on world screen"],
         },
-        {
-                "name": "AI Bonuses",
-                "resourceType": "Strategic",
-                "uniques": ["Stockpiled","Cannot be traded","Not shown on world screen"],
-        },
-        {
-                "name": "AI Debuff",
-                "resourceType": "Strategic",
-                "uniques": ["Stockpiled","Cannot be traded","Not shown on world screen"],
-        },
 ]
