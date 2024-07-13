@@ -3,11 +3,14 @@
 	{
                 "name": "Player Bonuses",
 		"cost": 0,
-		"uniques": ["Can be continually purchased",
-			    "Instantly provides [1] [Player Bonuses]",
-                            "Cannot be purchased <when above [10] [Player Bonuses]>", 
+		"uniques": ["Comment [WARNING = You cannot Revert the Bonus/Debuff back!!,]",
+			    "Comment [You may buy this up to 10 (100%),]",
+			    "Comment [10% Buff to All Non-Happiness Stat]",
 			    "Can only be built [in capital]",
+			    "Can be continually purchased",
+			    "Instantly provides [1] [Player Bonuses] <hidden from users>", 
 			    "Will not be displayed in Civilopedia <hidden from users>",
+			    "Unavailable <for [Human player]> <when above [9] [Player Bonuses]> <hidden from users>",
 			    "Unavailable <for [AI player]> <hidden from users>",
 			    "Remove [Player Bonuses] [in this city] <hidden from users>",
                             "[10]% [Faith] [in all cities] <for [9999] turns> <for [Human player]> <hidden from users>",
@@ -15,8 +18,6 @@
 		            "[10]% [Science] [in all cities] <for [9999] turns> <for [Human player]> <hidden from users> ",
 	                    "[10]% [Production] [in all cities] <for [9999] turns> <for [Human player]> <hidden from users>", 
 	                    "[10]% [Food] [in all cities] <for [9999] turns> <for [Human player]> <hidden from users>",
-		            "[10]% [Gold] [in all cities] <for [9999] turns> <for [Human player]> <hidden from users>",
-		            "Comment [10% Buff to All Non-Happiness Stat]",
-		            "Comment [WARNING = You cannot Revert the Bonus/Debuff back!!]"]
+		            "[10]% [Gold] [in all cities] <for [9999] turns> <for [Human player]> <hidden from users>"]
         },
 ]
