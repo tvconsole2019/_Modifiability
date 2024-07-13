@@ -9,11 +9,11 @@
                             "Unbuildable <for [AI player]>",
 			    "Unavailable <for [AI player]>",
 			    "Remove [Player Bonuses] [in this city] <hidden from users>",
-                            "[10]% [Faith] [in all cities] <for [Human player]>",
-                            "[10]% [Culture] [in all cities] <for [Human player]>",
-		            "[10]% [Science] [in all cities] <for [Human player]>",
-	                    "[10]% [Production] [in all cities] <for [Human player]>", 
-	                    "[10]% [Food] [in all cities] <for [Human player]>",
-		            "[10]% [Gold] [in all cities] <for [Human player]>"]
+                            "[10]% [Faith] [in all cities] <for [9999] turns> <for [Human player]>",
+                            "[10]% [Culture] [in all cities] <for [9999] turns> <for [Human player]>",
+		            "[10]% [Science] [in all cities] <for [9999] turns> <for [Human player]>",
+	                    "[10]% [Production] [in all cities] <for [9999] turns> <for [Human player]>", 
+	                    "[10]% [Food] [in all cities] <for [9999] turns> <for [Human player]>",
+		            "[10]% [Gold] [in all cities] <for [9999] turns> <for [Human player]>"]
         },
 ]
