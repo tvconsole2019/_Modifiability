@@ -1,13 +1,19 @@
 
 [
 	{
-		"name": "Spy Gaming",
-		"cost": 1,
-		"hurryCostModifier": 1,
-		"maintenance": 0,
-		"uniques": ["Automatically built in all cities where it is buildable",
-		    "Limited to [1] per Civilization",
-		    "[-999]% enemy spy effectiveness [in all cities] <for [Human player]>",
-		    "[+999]% spy effectiveness [in all cities] <for [Human player]>"]
-	},
+                "name": "Player Bonuses",
+		"cost": 0,
+		"uniques": ["Can be continually purchased",
+                            "Limited to [10] per Civilization", 
+			    "Can only be built [in capital]",
+                            "Unbuildable",
+			    "Unavailable <for [AI player]>",
+			    "Remove [Player Bonuses] [in this city] <hidden from users>",
+                            "[10]% [Faith] [in all cities] <for [Human player]>",
+                            "[10]% [Culture] [in all cities] <for [Human player]>",
+		            "[10]% [Science] [in all cities] <for [Human player]>",
+	                    "[10]% [Production] [in all cities] <for [Human player]>", 
+	                    "[10]% [Food] [in all cities] <for [Human player]>",
+		            "[10]% [Gold] [in all cities] <for [Human player]>"]
+        },
 ]
