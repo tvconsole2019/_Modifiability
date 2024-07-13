@@ -6,14 +6,15 @@
 		"uniques": ["Can be continually purchased",
                             "Limited to [10] per Civilization", 
 			    "Can only be built [in capital]",
-                            "Unbuildable <for [AI player]>",
-			    "Unavailable <for [AI player]>",
+                            "Unbuildable <for [AI player]> <hidden from users>",
+			    "Unavailable <for [AI player]> <hidden from users>",
 			    "Remove [Player Bonuses] [in this city] <hidden from users>",
-                            "[10]% [Faith] [in all cities] <for [9999] turns> <for [Human player]>",
-                            "[10]% [Culture] [in all cities] <for [9999] turns> <for [Human player]>",
-		            "[10]% [Science] [in all cities] <for [9999] turns> <for [Human player]>",
-	                    "[10]% [Production] [in all cities] <for [9999] turns> <for [Human player]>", 
-	                    "[10]% [Food] [in all cities] <for [9999] turns> <for [Human player]>",
-		            "[10]% [Gold] [in all cities] <for [9999] turns> <for [Human player]>"]
+                            "[10]% [Faith] [in all cities] <for [9999] turns> <for [Human player]> <hidden from users>",
+                            "[10]% [Culture] [in all cities] <for [9999] turns> <for [Human player]> <hidden from users>",
+		            "[10]% [Science] [in all cities] <for [9999] turns> <for [Human player]> <hidden from users> ",
+	                    "[10]% [Production] [in all cities] <for [9999] turns> <for [Human player]> <hidden from users>", 
+	                    "[10]% [Food] [in all cities] <for [9999] turns> <for [Human player]> <hidden from users>",
+		            "[10]% [Gold] [in all cities] <for [9999] turns> <for [Human player]> <hidden from users>",
+		            "Comment [10% buff to all non-happiness stat]"]
         },
 ]
