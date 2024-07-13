@@ -6,7 +6,7 @@
 		"uniques": ["Can be continually purchased",
                             "Limited to [10] per Civilization", 
 			    "Can only be built [in capital]",
-                            "Unbuildable",
+                            "Unbuildable <for [AI player]>",
 			    "Unavailable <for [AI player]>",
 			    "Remove [Player Bonuses] [in this city] <hidden from users>",
                             "[10]% [Faith] [in all cities] <for [Human player]>",
