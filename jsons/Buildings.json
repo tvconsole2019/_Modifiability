@@ -16,6 +16,7 @@
 	                    "[10]% [Production] [in all cities] <for [9999] turns> <for [Human player]> <hidden from users>", 
 	                    "[10]% [Food] [in all cities] <for [9999] turns> <for [Human player]> <hidden from users>",
 		            "[10]% [Gold] [in all cities] <for [9999] turns> <for [Human player]> <hidden from users>",
-		            "Comment [10% buff to all non-happiness stat]"]
+		            "Comment [10% Buff to All Non-Happiness Stat]",
+		            "Comment [WARNING = You cannot Revert the Bonus/Debuff back!!]"]
         },
 ]
