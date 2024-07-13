@@ -7,6 +7,7 @@
                             "Limited to [10] per Civilization", 
 			    "Can only be built [in capital]",
                             "Unbuildable <for [AI player]> <hidden from users>",
+			    "Will not be displayed in Civilopedia <hidden from users>",
 			    "Unavailable <for [AI player]> <hidden from users>",
 			    "Remove [Player Bonuses] [in this city] <hidden from users>",
                             "[10]% [Faith] [in all cities] <for [9999] turns> <for [Human player]> <hidden from users>",
